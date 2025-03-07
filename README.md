@@ -25,7 +25,7 @@ Three models were developed and evaluated based on accuracy, precision, recall, 
 | Logistic Regression | 78.37% | 42.41% | 3.32% | 70.33% |
 | XGBoost Model A | 82.00% | 81.53% | 19.91% | 31.90% |
 | XGBoost Model B | **99.75%** | **99.29%** | **99.36%** | **99.56%** |
-| Neural Network | **99.93%** | **99.85%** | **99.90%** | **99.88%** |
+
 
 ## **Key Takeaways**
 - **XGBoost Model B and Neural Networks** provided **highly accurate** failure predictions.
