@@ -4,6 +4,7 @@
 This project focuses on developing machine learning models to predict air leak failures in the Air Production Unit (APU) of metro transit trains. The APU is essential for maintaining pneumatic pressure, and its failure can lead to costly service interruptions. By leveraging predictive analytics, this project enables proactive maintenance strategies to reduce downtime and optimize operational efficiency.
 
 ## **Dataset**
+- Link for dataset- https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 - The dataset consists of **1,516,948** sensor readings collected between **February 2020 and August 2020**.
 - Key features include **pressure, temperature, motor current**, and other operational parameters.
 - Failure reports related to **air leaks due to high stress** were used to label the data.
